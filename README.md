@@ -20,5 +20,8 @@ The `CoreAudioAACENcoder` has *far* better sound quality than the default ffmpeg
 3. Once installed, you should be able to open OBS and it detect that you have `CoreAudioAACEncoder` installed by going to the current log file and seeing the message: `[CoreAudio encoder]: Adding CoreAudio AAC encoder`
 4. That's it, you're now using it! Enjoy better audio quality for your live streams!
 
+# Installation (Mac)
+You shouldn't need to install it since it is builtin to MacOS
+
 # Video On Installation
 https://youtu.be/2TN06QO-Jqg
