@@ -1,5 +1,4 @@
 # CoreAudio AAC Encoder for OBS
-Contains the CoreAudio AAC Encoder .msi files
 
 Ever wonder why your OBS stream's soundquality sounds bad? You likely are missing the `CoreAudioAACEncoder`
 ![image](https://github.com/justin-russell/iTunes-12.3.1.23/assets/38231076/59f468e4-59ad-4884-9079-094ca87efa0f)
